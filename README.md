@@ -1,16 +1,15 @@
-# quizzler
+# Quizzler
 
-A new Flutter project.
+Quiz Maker is a Mobile Application that allows you to play a cricket based quiz.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Features:
+It shows progress feedback during quiz play, and at the end, the app also shows the result.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Screenshot_1](https://user-images.githubusercontent.com/80099005/127668226-48c148ee-17e4-43d6-b89f-f1b8f28cc0f4.jpeg)
+
+![Screenshot_2](https://user-images.githubusercontent.com/80099005/127668277-1d4691e5-a024-422b-8bb6-fc6e51cf1dbd.jpeg)
